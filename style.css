@@ -26,6 +26,11 @@ body {
 #logo{
     display: none;
 }
+    
+
+#logo img{
+    display: none;
+}    
 
 button{
     outline-style: none;
